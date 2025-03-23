@@ -18,4 +18,4 @@ Stay tuned, as I continue to expand and improve my work!
 
 The code is linked in my GitHub.
 
-Translated to English according to this post []()
+Translated to English according to this post [My LinkedIn post](https://www.linkedin.com/posts/nour-y-38942933a_hi-netwerk-als-student-van-de-bit-academy-activity-7309663577295020034-6A9o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUi8NkB53gKX9LAFN4yInphYzBnYyThoes)

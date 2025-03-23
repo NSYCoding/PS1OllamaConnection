@@ -16,7 +16,7 @@ This project allows you to interact with Ollama's AI models through a simple Pow
 ## Prerequisites
 
 - PowerShell 5.1 or higher
-- [Ollama](https://ollama.ai/) installed and running locally
+- [Ollama](https://ollama.com/) installed and running locally
 - At least one model pulled in Ollama (default: llama3.2)
 
 ## Installation
@@ -56,6 +56,10 @@ The script uses PowerShell's `Invoke-RestMethod` to communicate with Ollama's AP
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Learning Process
+
+For details about what I learned while building this project, check out my [learning notes](learned.md).
 
 ## Author
 

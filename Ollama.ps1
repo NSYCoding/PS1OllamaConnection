@@ -77,5 +77,5 @@ if (Initialize-Ollama) {
         }
     }
 } else {
-    Write-Host "Exiting due to connection error." -ForegroundColor Red
+    Write-Host "Exiting due to connection error. Or due to Ollama being installed" -ForegroundColor Red
 }

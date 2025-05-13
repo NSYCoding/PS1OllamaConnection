@@ -51,8 +51,6 @@ function Write-UserInput {
     )
 
     try {
-        Write-Host "You: $userInput" -ForegroundColor Cyan
-        Send-OllamaMessage -userMessage $userInput
         Write-Host "Ollama: $modelResponse" -ForegroundColor Green
     }
     catch {
